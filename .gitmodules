@@ -1,0 +1,3 @@
+[submodule "owlang"]
+	path = owlang
+	url = https://github.com/akswnd98/owlang
